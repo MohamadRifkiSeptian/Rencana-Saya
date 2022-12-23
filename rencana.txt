@@ -5,5 +5,4 @@
   - framework php
     -laravel
   - node js
-- membuat projek game sederhana
 - membuat projek portfolio
