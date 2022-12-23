@@ -1,0 +1,4 @@
+- belajar bootstrap
+- belajar react
+- belajar backend
+  -php
