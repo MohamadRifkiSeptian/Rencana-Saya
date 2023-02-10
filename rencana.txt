@@ -1,5 +1,7 @@
 - belajar bootstrap
 - belajar react
+- git dan github
+- Api
 - belajar backend
   - php
   - framework php
